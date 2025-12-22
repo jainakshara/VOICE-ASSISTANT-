@@ -1,66 +1,29 @@
-🔊 AI Voice Assistant in Python
+# 🔊 AI Voice Assistant (Python)
 
-An intelligent Python-based voice assistant that listens to voice commands, understands user intent, and responds using AI-powered answers via OpenAI API. It can also fetch real-time news using NewsAPI, perform basic automation tasks, and reply with natural voice output.
+A Python-based voice assistant that listens to user commands, generates intelligent responses using the OpenAI API, and provides real-time news updates using NewsAPI through voice output.
 
-✨ Features
+## ✨ Features
+- Voice input (speech recognition)
+- Voice output (text to speech)
+- AI-powered answers using OpenAI
+- Live news updates using NewsAPI
+- Open websites and basic automation
+- Time and date queries
 
-🎙️ Speech-to-text using microphone input
+## 🛠 Tech Stack
+- Python
+- OpenAI API
+- NewsAPI
+- SpeechRecognition
+- pyttsx3
+- pyaudio
+- requests
 
-🗣️ Text-to-speech voice responses
+## 📁 Project Files
 
-🤖 Smart AI responses using OpenAI API
-
-📰 Live news headlines using NewsAPI
-
-🌐 Opens websites via voice commands
-
-⏰ Time & date queries
-
-🧩 Modular, readable, and beginner-friendly code
-
-🛠 Tech Stack
-
-Python
-
-OpenAI API
-
-NewsAPI
-
-SpeechRecognition
-
-pyttsx3
-
-pyaudio
-
-requests
-
-webbrowser
-
-datetime
-
-📂 Project Structure
-voice-assistant/
-│
-├── main.py
-├── requirements.txt
-├── README.md
-└── .env
-
-⚙️ Installation & Setup
-1️⃣ Clone the repository
-git clone https://github.com/jainakshara/VOICE-ASSISTANT.git
-cd voice-assistant
-
-▶️ How to Run
-python main.py
-
-
-Speak commands like:
-
-“What is today’s news?”
-
-“What is artificial intelligence?”
-
-“Open Google”
-
-“What is the time?”
+## ⚙️ Setup & Run
+1. Clone the repository  
+2. Create a virtual environment  
+3. Activate virtual environment  
+4. Install dependencies  
+5. Run the project  
