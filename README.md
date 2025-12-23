@@ -1,6 +1,6 @@
 # 🔊 AI Voice Assistant (Python)
 
-A Python-based voice assistant that listens to user commands, generates intelligent responses using the OpenAI API, and provides real-time news updates using NewsAPI through voice output.
+A Python-based voice assistant that listens to user commands, generates intelligent responses using the OpenAI API, and also provides  real-time news updates using NewsAPI through voice output.
 
 ## ✨ Features
 - Voice input (speech recognition)
